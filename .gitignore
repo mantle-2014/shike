@@ -1,0 +1,22 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# PyInstaller outputs
+build/
+dist/
+*.log
+
+# User data and backups
+*.db
+*.db-wal
+*.db-shm
+storage.json
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
